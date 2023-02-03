@@ -1,6 +1,13 @@
 # Surfy.Words
 Stunning library for Text Processing via Rest API to help you develop the next generation of applications dramatically quickly and easily.
 
+<br/>
+
+## Installation
+```
+npm install @surfy/words
+```
+
 <br />
 <br />
 
